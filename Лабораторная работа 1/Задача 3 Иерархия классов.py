@@ -28,6 +28,14 @@ class Asyn(Rotate):
 
 a=Asyn(170,25,92,70)
 b=Syn(300,15,48,50)
-print(a.angle)  
+c=Asyn(160,20,74,50)
+d=Linear(270,25,56,60) 
 print(str(a))
 print(repr(a))
+print(str(b))
+print(repr(b))
+print(str(c))
+print(repr(c))
+print(str(d))
+print(repr(d))
+
